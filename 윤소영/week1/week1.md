@@ -50,3 +50,17 @@ FCP (First Contentful Paint)
     ![image.png](image%205.png)
     
     - 빠른 FCP 달성 (React App 단점 해소) + 빠른 페이지 이동 (React App 장점 승계)
+
+### 백엔드 서버 세팅
+
+https://github.com/onebite-nextjs/vod__onebite-books-server
+
+https://supabase.com/
+
+- 테이블 생성 완료
+    
+    ![image.png](image%206.png)
+    
+- 서버 가동 확인 (중단 시 강의 1.3 - 16:30 확인)
+    
+    ![image.png](image%207.png)
