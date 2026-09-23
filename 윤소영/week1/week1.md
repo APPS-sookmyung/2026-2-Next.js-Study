@@ -61,6 +61,7 @@ https://supabase.com/
     
     ![image.png](image%206.png)
     
-- 서버 가동 확인 (중단 시 강의 1.3 - 16:30 확인)
+- 서버 가동 확인
+    - 일주일 이상 접속하지 않을 시 중단 - 재가동은 강의 1.3 - 16:30 확인
     
     ![image.png](image%207.png)
