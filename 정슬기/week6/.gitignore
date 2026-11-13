@@ -41,3 +41,4 @@ next.config.mjs
 tsconfig.json
 .eslintrc.json
 global.d.ts
+.vercel
